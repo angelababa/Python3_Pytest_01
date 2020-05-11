@@ -1,0 +1,54 @@
+2020-05-02 10:29:45,800 Requests DEBUG 发送post请求 
+2020-05-02 10:29:46,405 Requests DEBUG 发送get请求 
+2020-05-02 10:31:53,216 Requests DEBUG 发送post请求 
+2020-05-02 10:31:53,945 Requests DEBUG 发送get请求 
+2020-05-02 18:41:22,892 Requests DEBUG 发送post请求 
+2020-05-02 18:41:23,975 Requests DEBUG 发送get请求 
+2020-05-02 18:42:14,470 Requests DEBUG 发送post请求 
+2020-05-02 18:42:39,056 Requests DEBUG 发送post请求 
+2020-05-02 18:42:39,951 AssertUtil ERROR code error,code is 200,expected_code is 201 
+2020-05-02 18:44:32,942 Requests DEBUG 发送post请求 
+2020-05-02 18:44:33,628 Requests DEBUG 发送get请求 
+2020-05-02 18:44:57,953 Requests DEBUG 发送post请求 
+2020-05-02 18:44:59,630 AssertUtil ERROR code error,code is 200,expected_code is 201 
+2020-05-02 18:44:59,688 Requests DEBUG 发送get请求 
+2020-05-02 18:46:09,446 Requests DEBUG 发送post请求 
+2020-05-02 18:46:10,089 AssertUtil ERROR code error,code is 200,expected_code is 201 
+2020-05-02 18:46:10,144 Requests DEBUG 发送get请求 
+2020-05-02 18:48:42,214 Requests DEBUG 发送post请求 
+2020-05-02 18:48:44,097 AssertUtil ERROR 不包含或者body是错误的，body is {"username": "python", "user_id": 1, "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODg1MDI1NTIsInVzZXJuYW1lIjoicHl0aG9uIiwiZW1haWwiOiI5NTI2NzM2MzhAcXEuY29tIiwidXNlcl9pZCI6MX0.1nL6pw3WX1vb2FSYGXp4dE6yEH3gfS725Ujb7l9ww9o"},expected_body is "username":"python","password":"12345678" 
+2020-05-02 18:48:44,151 Requests DEBUG 发送get请求 
+2020-05-02 18:49:17,243 Requests DEBUG 发送post请求 
+2020-05-02 18:49:18,701 AssertUtil ERROR 不包含或者body是错误的，body is {"username": "python", "user_id": 1, "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODg1MDI1ODYsInVzZXJuYW1lIjoicHl0aG9uIiwiZW1haWwiOiI5NTI2NzM2MzhAcXEuY29tIiwidXNlcl9pZCI6MX0.WBf3hpQ6zCIfD_J4wbQ1QEKPIT3Pmvepso_mb7Jf8dc"},expected_body is "username":"python" 
+2020-05-02 18:49:18,756 Requests DEBUG 发送get请求 
+2020-05-02 18:55:13,008 Requests DEBUG 发送post请求 
+2020-05-02 18:55:14,336 AssertUtil ERROR 不包含或者body是错误的，body is {"username": "python", "user_id": 1, "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODg1MDI5NDMsInVzZXJuYW1lIjoicHl0aG9uIiwiZW1haWwiOiI5NTI2NzM2MzhAcXEuY29tIiwidXNlcl9pZCI6MX0.m9DvedB8C5AVREIEIS_rP0Z3Hza6YpAa3A_JuiGR62I"},expected_body is "user_id":1,"username":"python" 
+2020-05-02 18:55:14,393 Requests DEBUG 发送get请求 
+2020-05-02 19:00:27,753 Requests DEBUG 发送post请求 
+2020-05-02 19:00:28,284 AssertUtil ERROR 不包含或者body是错误的，body is {"username": "python", "user_id": 1, "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODg1MDMyNTcsInVzZXJuYW1lIjoicHl0aG9uIiwiZW1haWwiOiI5NTI2NzM2MzhAcXEuY29tIiwidXNlcl9pZCI6MX0._il6MSFZMuA3Gv0k9G7fd9XXoFf5bewkMDemlRxmxPU"},expected_body is "user_id":1,"username":"python" 
+2020-05-02 19:00:28,339 Requests DEBUG 发送get请求 
+2020-05-02 19:02:34,907 Requests DEBUG 发送post请求 
+2020-05-02 19:02:36,016 Requests DEBUG 发送get请求 
+2020-05-02 19:03:20,010 Requests DEBUG 发送post请求 
+2020-05-02 19:03:20,451 AssertUtil ERROR 不包含或者body是错误的，body is {"username": "python", "user_id": 1, "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODg1MDM0MjksInVzZXJuYW1lIjoicHl0aG9uIiwiZW1haWwiOiI5NTI2NzM2MzhAcXEuY29tIiwidXNlcl9pZCI6MX0.EvMOwiAmz8rQ7aBKv-0INNymINRui6pKyrnPnGGD5kY"},expected_body is "id":1,"username":"python" 
+2020-05-02 19:03:20,507 Requests DEBUG 发送get请求 
+2020-05-02 19:04:49,142 Requests DEBUG 发送post请求 
+2020-05-02 19:04:50,217 AssertUtil ERROR 不包含或者body是错误的，body is {"username": "python", "user_id": 1, "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODg1MDM1MTgsInVzZXJuYW1lIjoicHl0aG9uIiwiZW1haWwiOiI5NTI2NzM2MzhAcXEuY29tIiwidXNlcl9pZCI6MX0.qzPa61omVpLE_a6l0trctl9QqFSPgxqHc6oRXp4refk"},expected_body is "username":"python" 
+2020-05-02 19:04:50,271 Requests DEBUG 发送get请求 
+2020-05-02 19:05:19,529 Requests DEBUG 发送post请求 
+2020-05-02 19:05:20,345 Requests DEBUG 发送get请求 
+2020-05-02 19:05:51,551 Requests DEBUG 发送post请求 
+2020-05-02 19:05:52,088 AssertUtil ERROR 不包含或者body是错误的，body is {"username": "python", "user_id": 1, "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODg1MDM1ODAsInVzZXJuYW1lIjoicHl0aG9uIiwiZW1haWwiOiI5NTI2NzM2MzhAcXEuY29tIiwidXNlcl9pZCI6MX0.6YkfL6rnOE9Giczg8Tf3YvRld1XwlhGuzlIl3WmPQ30"},expected_body is "user_id": 1,"username": "python" 
+2020-05-02 19:05:52,146 Requests DEBUG 发送get请求 
+2020-05-02 19:06:33,185 Requests DEBUG 发送post请求 
+2020-05-02 19:06:34,276 AssertUtil ERROR 不包含或者body是错误的，body is {"username": "python", "user_id": 1, "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODg1MDM2MjIsInVzZXJuYW1lIjoicHl0aG9uIiwiZW1haWwiOiI5NTI2NzM2MzhAcXEuY29tIiwidXNlcl9pZCI6MX0.3lAnyR69xWgjCfEWufYmQFL6fPXH-7fY_w7sUtLB1BM"},expected_body is "user_id": 1, "username": "python" 
+2020-05-02 19:06:34,335 Requests DEBUG 发送get请求 
+2020-05-02 19:06:42,251 Requests DEBUG 发送post请求 
+2020-05-02 19:06:42,989 Requests DEBUG 发送get请求 
+2020-05-02 19:06:55,031 Requests DEBUG 发送post请求 
+2020-05-02 19:06:56,102 AssertUtil ERROR 不包含或者body是错误的，body is {"username": "python", "user_id": 1, "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODg1MDM2NDQsInVzZXJuYW1lIjoicHl0aG9uIiwiZW1haWwiOiI5NTI2NzM2MzhAcXEuY29tIiwidXNlcl9pZCI6MX0.Ja5ZOD1rsp7J0E534H8fEeTqeZhkaxLF6KHAo_4nM-E"},expected_body is "id": 1, "username": "python" 
+2020-05-02 19:06:56,154 Requests DEBUG 发送get请求 
+2020-05-02 19:07:08,701 Requests DEBUG 发送post请求 
+2020-05-02 19:07:09,430 Requests DEBUG 发送get请求 
+2020-05-02 19:07:27,178 Requests DEBUG 发送post请求 
+2020-05-02 19:07:27,621 Requests DEBUG 发送get请求 

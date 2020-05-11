@@ -1,0 +1,17 @@
+
+BASE:
+  # log等级
+  log_level: "debug"
+  # 扩展名
+  log_extension: ".log"
+  # URL前缀-测试环境
+  test:
+    url: "http://211.103.136.242:8064"
+    case_file: "testdata.xlsx"
+    case_sheet: "美多商城接口测试"
+
+email:
+  smtpserver: "smtp.mxhichina.com"
+  username: "test@angelababa.com"
+  password: "A6REC73ge63K3Km"
+  receiver: "test@angelababa.com"
