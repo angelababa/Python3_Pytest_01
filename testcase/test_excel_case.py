@@ -15,7 +15,7 @@ from config import Conf
 
 # 1、初始化信息
 # 1.1、初始化测试用例文件
-case_file = os.path.join("../data",ConfigYaml().get_execl_file())
+case_file = os.path.join(Conf.get_data_path(),ConfigYaml().get_execl_file())
 # 1.2、测试用例sheet名称
 sheet_name = ConfigYaml().get_execl_sheet()
 # 1.3、获取运行测试用例列表
