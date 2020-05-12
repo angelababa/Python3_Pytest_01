@@ -149,4 +149,4 @@ if __name__ == "__main__":
 
     # 1、根据默认运行原则，调整py文件命名，函数命名
     # 2、pytest.main()运行，或者命令行直接pytest运行
-    pytest.main(["test_Mall.py"])
+    pytest.main(["Test_Mall.py"])
